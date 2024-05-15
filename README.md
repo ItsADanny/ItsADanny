@@ -1,16 +1,20 @@
-### Hi there 👋
+## About Me
+Hi!, i am Danny.
 
-<!--
-**ItsADanny/ItsADanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer from the Netherlands with nearly 4 year of experience in coding of product design.
 
-Here are some ideas to get you started:
+I am currently back in the school benchs to get my HBO degree in Computer Science at [Hogeschool Rotterdam](https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/informatica/voltijd/), after a 4 year career in Software development with 2 companies in the logistic services sector.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Known programming languages
+
+- Python
+- PL/SQL
+- Java
+- Javascript
+- HTML
+- CSS
+- PHP
+- C#
+
+## Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddesnoo/)
