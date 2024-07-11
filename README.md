@@ -16,8 +16,8 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 ## Current school projects
 | Project name | State     | Description                | Repo |
 | :-------- | :------- | :------------------------- | :------- |
-| HR.OODP | $${\color{orange}On Hold}$$ | the complete OODP course at HR | [github](https://github.com/ItsADanny/HR.OODP) |
-| HR.Project C | $${\color{orange}On Hold}$$ | the current school project | [github](#) |
+| HR.OODP | $${\color{orange}On \space Hold}$$ | the complete OODP course at HR | [github](https://github.com/ItsADanny/HR.OODP) |
+| HR.Project C | $${\color{orange}On \space Hold}$$ | the current school project | [github](#) |
 
 ## Known programming languages
 
