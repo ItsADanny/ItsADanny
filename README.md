@@ -10,14 +10,14 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 ## Current personal projects
 | Project name | State     | Description                | Repo |
 | :-------- | :------- | :------------------------- | :------- |
-| B.F.M.P | `$${\color{green}Started}$$` | A really big macropad | [github](https://github.com/ItsADanny/BFMP.QMK_Marcopad) |
-| ddesnoo.nl | `$${\color{green}Started}$$` | My portfolio | [github](https://github.com/ItsADanny/ddesnoo.nl) |
+| B.F.M.P | $${\color{green}Started}$$ | A really big macropad | [github](https://github.com/ItsADanny/BFMP.QMK_Marcopad) |
+| ddesnoo.nl | $${\color{green}Started}$$ | My portfolio | [github](https://github.com/ItsADanny/ddesnoo.nl) |
 
 ## Current school projects
 | Project name | State     | Description                | Repo |
 | :-------- | :------- | :------------------------- | :------- |
-| HR.OODP | `$${\color{orange}On Hold}$$` | the complete OODP course at HR | [github](https://github.com/ItsADanny/HR.OODP) |
-| HR.Project C | `$${\color{orange}On Hold}$$` | the current school project | [github](#) |
+| HR.OODP | $${\color{orange}On Hold}$$ | the complete OODP course at HR | [github](https://github.com/ItsADanny/HR.OODP) |
+| HR.Project C | $${\color{orange}On Hold}$$ | the current school project | [github](#) |
 
 ## Known programming languages
 
