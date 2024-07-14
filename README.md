@@ -12,6 +12,8 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | :-------- | :------- | :------------------------- | :------- |
 | B.F.M.P | $${\color{green}Started}$$ | A really big macropad | [github](https://github.com/ItsADanny/BFMP.QMK_Marcopad) |
 | ddesnoo.nl | $${\color{green}Started}$$ | My portfolio | [github](https://github.com/ItsADanny/ddesnoo.nl) |
+| Business Tree | $${\color{green}Started}$$ | A web link share environment | [github](https://github.com/ItsADanny/business-tree) |
+| Smart Mirror Interface | $${\color{orange}On \space Hold}$$ | A Smart mirror interface | [github](https://github.com/ItsADanny/Smart-Mirror-Interface) |
 
 ## Current school projects
 | Project name | State     | Description                | Repo |
