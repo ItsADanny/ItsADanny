@@ -19,6 +19,9 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | :-------- | :------- | :------------------------- | :------------- | :------- |
 | HR.OODP | $${\color{green}Started}$$ | the complete OODP course at HR | C# | [github](https://github.com/ItsADanny/HR.OODP) |
 | HR.Project B | $${\color{green}Started}$$ | the current school project | C# | [github](https://github.com/ItsADanny/HR.Project-B) |
+| HR.RogueLike | $${\color{green}Started}$$ | 3-layer, with SQLite Database future school assignment project | C# | [github]([https://github.com/ItsADanny/HR.Project-B](https://github.com/ItsADanny/HR.RogueLike)) |
+
+
 
 ## Known programming languages
 
