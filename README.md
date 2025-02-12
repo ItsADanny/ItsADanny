@@ -10,18 +10,13 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 ## Current personal projects
 | Project name | State     | Description                | Languages | Repo |
 | :-------- | :------- | :------------------------- | :-----------| :------- |
-| ddesnoo.nl | $${\color{green}Started}$$ | My portfolio | HTML, CSS, Javascript and PHP | [github](https://github.com/ItsADanny/ddesnoo.nl) |
-| Business Tree | $${\color{orange}On \space Hold}$$ | A web link share environment | HTML, CSS, Javascript and PHP | [github](https://github.com/ItsADanny/business-tree) |
-| Smart Mirror Interface | $${\color{orange}On \space Hold}$$ | A Smart mirror interface | HTML, CSS, Javascript | [github](https://github.com/ItsADanny/Smart-Mirror-Interface) |
+| ddesnoo.nl | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript and PHP | [github](https://github.com/ItsADanny/ddesnoo.nl) |
+| CSharp-TerminalUIKit | $${\color{green}On \space going}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
 
 ## Current school projects
 | Project name | State     | Description                | Languages | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :------- |
-| HR.OODP | $${\color{green}Started}$$ | the complete OODP course at HR | C# | [github](https://github.com/ItsADanny/HR.OODP) |
-| HR.Project B | $${\color{green}Started}$$ | the current school project | C# | [github](https://github.com/ItsADanny/HR.Project-B) |
-| HR.RogueLike | $${\color{green}Started}$$ | 3-layer, with SQLite Database future school assignment project | C# | [github](https://github.com/ItsADanny/HR.Project-B](https://github.com/ItsADanny/HR.RogueLike)) |
-
-
+| HR.OODP | $${\color{green}On going}$$ | the complete OODP course at HR | C# | [github](https://github.com/ItsADanny/HR.OODP) |
 
 ## Known programming languages
 
