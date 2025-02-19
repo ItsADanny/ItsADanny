@@ -3,7 +3,7 @@
 ## About Me
 Hi!, i am Danny.
 
-I am a software engineer from the Netherlands with nearly 4 year of experience in coding of product design.
+I am a software engineer from the Netherlands with nearly 4 year of experience in coding & product design.
 
 I am currently back in the school benchs to get my HBO degree in Computer Science at [Hogeschool Rotterdam](https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/informatica/voltijd/), after a 4 year career in Software development with 2 companies in the logistic services sector.
 
