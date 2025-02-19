@@ -12,7 +12,6 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | :-------- | :------- | :------------------------- | :-----------| :------- |
 | ddesnoo.nl | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript and PHP | [github](https://github.com/ItsADanny/ddesnoo.nl) |
 | CSharp.TerminalUIKit | $${\color{green}On \space going}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
-| CSharp.SQLiteDatabaseConnector | $${\color{green}Started}$$ | A Easy to use kit to connect to a SQLite Database with C# | C# | [github](https://github.com/ItsADanny/CSharp.SQLiteDatabaseConnector) |
 
 ## Current school projects
 | Project name | State     | Description                | Languages | Repo |
