@@ -18,6 +18,7 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | Project name | State     | Description                | Languages | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :------- |
 | HR.OODP | $${\color{green}On \space going}$$ | the complete OODP course at HR | C# | [github](https://github.com/ItsADanny/HR.OODP) |
+| HR.CSharp.MineSweeper | $${\color{green}In\space development}$$ | A Minesweeper game with a Nice looking UI in the Terminal | C# | [github](https://github.com/ItsADanny/HR.CSharp.MineSweeper) |
 
 ## Known programming languages
 
