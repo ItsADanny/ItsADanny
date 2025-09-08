@@ -8,16 +8,16 @@ I am a software engineer from the Netherlands with nearly 4 year of experience i
 I am currently back in the school benchs to get my HBO degree in Computer Science at [Hogeschool Rotterdam](https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/informatica/voltijd/), after a 4 year career in Software development with 2 companies in the logistic services sector.
 
 ## Current personal projects
-| Project name | State     | Description                | Languages | Repo |
+| Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :-----------| :------- |
-| ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript and PHP | [github](https://github.com/ItsADanny/ddesnoo.nl) |
-| CSharp.TerminalUIKit | $${\color{green}On \space going}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
+| ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript | Bootstrap | [github](https://github.com/ItsADanny/ddesnoo.nl) |
+| CSharp.TerminalUIKit | $${\color{green}On \space going}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
 
 ## Current school projects
-| Project name | State     | Description                | Languages | Repo |
+| Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :------- |
-| HR.MobyPark | $${\color{green}Started}$$ | The project for Software construction: process and tools | Python | [github](https://github.com/ItsADanny/HR.MobyPark) |
-| HR.WebAppDev | $${\color{green}Started}$$ | ... | HTML, CSS, Javascript | [github](https://github.com/ItsADanny/HR.WebAppDev) |
+| HR.MobyPark | $${\color{green}Started}$$ | The project for Software construction: process and tools | Python | | [github](https://github.com/ItsADanny/HR.MobyPark) |
+| HR.WebAppDev | $${\color{green}Started}$$ | ... | HTML, CSS, Javascript, Typescript, C# | Bootstrap, React | [github](https://github.com/ItsADanny/HR.WebAppDev) |
 
 ## Known programming languages
 
