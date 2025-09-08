@@ -9,13 +9,13 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 
 ## Current personal projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
-| :-------- | :------- | :------------------------- | :-----------| :------- |
+| :-------- | :------- | :------------------------- | :-----------| :-----------| :------- |
 | ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript | Bootstrap | [github](https://github.com/ItsADanny/ddesnoo.nl) |
 | CSharp.TerminalUIKit | $${\color{green}On \space going}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
 
 ## Current school projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
-| :-------- | :------- | :------------------------- | :------------- | :------- |
+| :-------- | :------- | :------------------------- | :------------- | :-----------| :------- |
 | HR.MobyPark | $${\color{green}Started}$$ | The project for Software construction: process and tools | Python | | [github](https://github.com/ItsADanny/HR.MobyPark) |
 | HR.WebAppDev | $${\color{green}Started}$$ | ... | HTML, CSS, Javascript, Typescript, C# | Bootstrap, React | [github](https://github.com/ItsADanny/HR.WebAppDev) |
 
