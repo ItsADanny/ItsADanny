@@ -17,7 +17,7 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | Project name | State     | Description                | Languages | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :------- |
 | HR.MobyPark | $${\color{green}Started}$$ | The project for Software construction: process and tools | Python | [github](https://github.com/ItsADanny/HR.MobyPark) |
-| HR.WebAppDev | $${\color{green}Started}$$ | ... | HTML, CSS, JS | [github](https://github.com/ItsADanny/HR.WebAppDev) |
+| HR.WebAppDev | $${\color{green}Started}$$ | ... | HTML, CSS, Javascript | [github](https://github.com/ItsADanny/HR.WebAppDev) |
 
 ## Known programming languages
 
