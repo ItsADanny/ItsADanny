@@ -17,7 +17,7 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :-----------| :------- |
 | HR.MobyPark | $${\color{green}Started}$$ | The project for Software construction: process and tools course at Hogeschool Rotterdam | Python | | [github](https://github.com/ItsADanny/HR.MobyPark) |
-| HR.WebAppDev | $${\color{green}Started}$$ | The project for the Web Development Course at Hogeschool Rotterdam | HTML, CSS, Typescript, C# | Bootstrap, React | [github](https://github.com/ItsADanny/HR.WebDev-CalendarApp) |
+| HR.WebDev Calendar App | $${\color{green}Started}$$ | The project for the Web Development Course at Hogeschool Rotterdam | HTML, CSS, Typescript, C# | Bootstrap, React | [github](https://github.com/ItsADanny/HR.WebDev-CalendarApp) |
 
 ## Known programming languages
 
