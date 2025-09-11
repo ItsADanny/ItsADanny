@@ -19,6 +19,12 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | HR.MobyPark | $${\color{green}Started}$$ | The project for Software construction: process and tools course at Hogeschool Rotterdam | Python | | [github](https://github.com/ItsADanny/HR.MobyPark) |
 | HR.WebDev Calendar App | $${\color{green}Started}$$ | The project for the Web Development Course at Hogeschool Rotterdam | HTML, CSS, Typescript, C# | Bootstrap, React | [github](https://github.com/ItsADanny/HR.WebDev-CalendarApp) |
 
+## Current course projects
+| Project name | State     | Description                | Languages | Frameworks | Repo |
+| :-------- | :------- | :------------------------- | :------------- | :-----------| :------- |
+| Udemy.course-BRRWW-main | $${\color{orange}On \space Hold}$$ | | HTML, CSS | | [github](https://github.com/ItsADanny/Udemy.course-BRRWW-main) |
+| Udemy.course-BRRWW-Omnifood | $${\color{orange}On \space Hold}$$ | | HTML, CSS | | [github](https://github.com/ItsADanny/Udemy.course-BRRWW-Omnifood) |
+
 ## Known programming languages
 
 - Python
