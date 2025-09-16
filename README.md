@@ -12,6 +12,7 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | :-------- | :------- | :------------------------- | :-----------| :-----------| :------- |
 | ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript | Bootstrap | [github](https://github.com/ItsADanny/ddesnoo.nl) |
 | CSharp.TerminalUIKit | $${\color{green}On \space going}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
+| Python.TerminalUIKit | $${\color{green}Started}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | Python | | [github](https://github.com/ItsADanny/Python-TerminalUIKit) |
 
 ## Current school projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
