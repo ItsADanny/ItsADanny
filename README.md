@@ -10,7 +10,7 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 ## Current personal projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :-----------| :-----------| :------- |
-| ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript | [github](https://github.com/ItsADanny/ddesnoo.nl) |
+| ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript | | [github](https://github.com/ItsADanny/ddesnoo.nl) |
 | CSharp.TerminalUIKit | $${\color{orange}Paused}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
 | CSharp.Game.FTerminal | $${\color{orange}Paused}$$ | A Terminal based game straight out of your favorite nuclear game/show | C# | | [github](https://github.com/ItsADanny/CSharp-Game-FTerminal) |
 
