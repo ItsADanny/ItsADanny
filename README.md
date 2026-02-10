@@ -18,7 +18,7 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 | Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :-----------| :------- |
 | HR.MobyPark | $${\color{orange}Being \space assessed}$$ | The project for Software construction: process and tools course at Hogeschool Rotterdam | Python | | [github](https://github.com/ItsADanny/HR.MobyPark) |
-| HR.Data-Structures-and-Algorithms | $${\color{green}Started}$$ | The class assignments for the "Data structures and Algorithms" couse at Hogeschool Rotterdam | C# | [github](https://github.com/ItsADanny/HR.Data-Structures-and-Algorithms) |
+| HR.Data-Structures-and-Algorithms | $${\color{green}Started}$$ | The class assignments for the "Data structures and Algorithms" couse at Hogeschool Rotterdam | C# | | [github](https://github.com/ItsADanny/HR.Data-Structures-and-Algorithms) |
 
 ## Current course projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
