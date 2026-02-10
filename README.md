@@ -10,15 +10,15 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 ## Current personal projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :-----------| :-----------| :------- |
-| ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript | Bootstrap | [github](https://github.com/ItsADanny/ddesnoo.nl) |
-| CSharp.TerminalUIKit | $${\color{green}On \space going}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
-| CSharp.Game.FTerminal | $${\color{green}Started}$$ | A Terminal based game straight out of your favorite nuclear game/show | C# | | [github](https://github.com/ItsADanny/CSharp-Game-FTerminal) |
+| ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript | [github](https://github.com/ItsADanny/ddesnoo.nl) |
+| CSharp.TerminalUIKit | $${\color{orange}Paused}$$ | A Terminal UI Kit for easy to use and user friendly UI in the terminal | C# | | [github](https://github.com/ItsADanny/CSharp-TerminalUIKit) |
+| CSharp.Game.FTerminal | $${\color{orange}Paused}$$ | A Terminal based game straight out of your favorite nuclear game/show | C# | | [github](https://github.com/ItsADanny/CSharp-Game-FTerminal) |
 
 ## Current school projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :-----------| :------- |
-| HR.MobyPark | $${\color{red}Finished}$$ | The project for Software construction: process and tools course at Hogeschool Rotterdam | Python | | [github](https://github.com/ItsADanny/HR.MobyPark) |
-| HR.WebDev Calendar App | $${\color{red}Finished}$$ | The project for the Web Development Course at Hogeschool Rotterdam | HTML, CSS, Typescript, C# | Bootstrap, React | [github](https://github.com/ItsADanny/HR.WebDev-CalendarApp) |
+| HR.MobyPark | $${\color{orange}Being \space assessed}$$ | The project for Software construction: process and tools course at Hogeschool Rotterdam | Python | | [github](https://github.com/ItsADanny/HR.MobyPark) |
+| HR.Data-Structures-and-Algorithms | $${\color{green}Started}$$ | The class assignments for the "Data structures and Algorithms" couse at Hogeschool Rotterdam | C# | [github](https://github.com/ItsADanny/HR.Data-Structures-and-Algorithms) |
 
 ## Current course projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
