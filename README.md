@@ -1,5 +1,9 @@
 ![ItsADanny GitHub banner](https://github.com/ItsADanny/ItsADanny/blob/main/ItsDannyGithubBanner.png?raw=true)
 
+## Portfolio websites
+[itsadanny.github.io](itsadanny.github.io)
+[ddesnoo.nl](ddesnoo.nl)
+
 ## About Me
 Hi!, i am Danny.
 
@@ -10,7 +14,7 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 ## Current personal projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :-----------| :-----------| :------- |
-| ddesnoo.nl / ItsADanny.github.io | $${\color{green}On \space going}$$ | My portfolio | HTML, CSS, Javascript | | [github](https://github.com/ItsADanny/ddesnoo.nl) |
+| ddesnoo.nl / ItsADanny.github.io | $${\color{green}Finished}$$ | My portfolio | HTML, CSS, Javascript | | [github](https://github.com/ItsADanny/ddesnoo.nl) |
 
 ## Current school projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
