@@ -19,6 +19,7 @@ I am currently back in the school benchs to get my HBO degree in Computer Scienc
 ## Current school projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :-----------| :------- |
+$${\color{green}No \space current \space school \space projects \space because \space of \space internship}$$
 
 ## Current course projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
