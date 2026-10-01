@@ -1,4 +1,4 @@
-![ItsADanny GitHub banner](https://github.com/ItsADanny/ItsADanny/blob/main/ItsDannyGithubBanner.png?raw=true)
+![ItsADanny GitHub banner](https://github.com/ItsADanny/ItsADanny/blob/main/Danny%20de%20Snoo%20-%20Banner.png?raw=true)
 
 ## Portfolio websites
 [itsadanny.github.io](https://itsadanny.github.io)
