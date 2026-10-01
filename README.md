@@ -1,8 +1,8 @@
 ![ItsADanny GitHub banner](https://github.com/ItsADanny/ItsADanny/blob/main/ItsDannyGithubBanner.png?raw=true)
 
 ## Portfolio websites
-[itsadanny.github.io](itsadanny.github.io)
-[ddesnoo.nl](ddesnoo.nl)
+[itsadanny.github.io](https://itsadanny.github.io)
+[ddesnoo.nl](https://ddesnoo.nl)
 
 ## About Me
 Hi!, i am Danny.
