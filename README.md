@@ -24,8 +24,8 @@ $${\color{green}No \space current \space school \space projects \space because \
 ## Current course projects
 | Project name | State     | Description                | Languages | Frameworks | Repo |
 | :-------- | :------- | :------------------------- | :------------- | :-----------| :------- |
-| Udemy.course-BRRWW-main | $${\color{orange}On \space Hold}$$ | | HTML, CSS | | [github](https://github.com/ItsADanny/Udemy.course-BRRWW-main) |
-| Udemy.course-BRRWW-Omnifood | $${\color{orange}On \space Hold}$$ | | HTML, CSS | | [github](https://github.com/ItsADanny/Udemy.course-BRRWW-Omnifood) |
+| Udemy.course-BRRWW-main | $${\color{red}On \space Hold}$$ | | HTML, CSS | | [github](https://github.com/ItsADanny/Udemy.course-BRRWW-main) |
+| Udemy.course-BRRWW-Omnifood | $${\color{red}On \space Hold}$$ | | HTML, CSS | | [github](https://github.com/ItsADanny/Udemy.course-BRRWW-Omnifood) |
 
 ## Known programming languages
 
